@@ -5,7 +5,7 @@
 - 🌱 Buscando aprender e aperfeiçoar meus conhecimentos em ciência de dados
 - 💬 Me pergunte sobre tecnologia, ciência de dados, carreira e etc.
 - 📫 Fale comigo em raulsperandio@gmail.com
-- 📄 Saiba mais sobre mim em meu [Linkedin] (https://www.linkedin.com/in/raul-sperandio/)
+- 📄 Saiba mais sobre mim em meu [Linkedin](https://www.linkedin.com/in/raul-sperandio/)
 - ⚡ Tenho um curso de aprendizagem industrial em mecânica de manutanção
 
 
