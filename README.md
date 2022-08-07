@@ -6,7 +6,7 @@
 - 💬 Me pergunte sobre tecnologia, ciência de dados, carreira e etc.
 - 📫 Fale comigo em raulsperandio@gmail.com
 - 📄 Saiba mais sobre mim em meu [Linkedin](https://www.linkedin.com/in/raul-sperandio/)
-- ⚡ Curiosidade aleatória: Tenho um curso de aprendizagem industrial em mecânica de manutanção
+- ⚡ Curiosidade aleatória: estou aprendendo francês!
 
 <h4 align="left">🛠️ Linguagens e ferramentas que utilizo:</h4>
 <p align="left">
