@@ -1,4 +1,4 @@
-## Olá 👋 eu sou Raul! 🌈 
+![MD](https://user-images.githubusercontent.com/50429650/183273691-bdebebd6-2236-485b-b473-101a9f991fb1.gif)
 - 😄 Meus pronomes são ele/dele
 - ✏️ Estudo Sistemas de Informação na Universidade de São Paulo
 - 💻 Atualmente, sou estagiário em DevOps na [Petz](https://www.linkedin.com/company/petz/mycompany/)
