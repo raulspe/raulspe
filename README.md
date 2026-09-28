@@ -1,9 +1,9 @@
 ![Olá, eu sou Raul!](https://user-images.githubusercontent.com/50429650/183273920-23450ef1-7390-44b6-b5e5-f135716e6690.gif)
 - 😄 Meus pronomes são ele/dele
-- ✏️ Estudo Sistemas de Informação na Universidade de São Paulo
-- 💻 Atualmente, sou analista de BI na [Sociedade Brasileira Caminho de Damasco](https://www.linkedin.com/company/sociedade-brasileira-caminho-de-damasco/)
-- 🌱 Buscando aprender e aperfeiçoar meus conhecimentos em análise de dados
-- 💬 Me pergunte sobre tecnologia, ciência de dados, carreira e etc.
+- ✏️ Estudei Sistemas de Informação na Universidade de São Paulo
+- 💻 Atualmente, sou Analista de Dados na [Sociedade Brasileira Caminho de Damasco](https://www.linkedin.com/company/sociedade-brasileira-caminho-de-damasco/)
+- 🌱 Buscando aprender e aperfeiçoar meus conhecimentos em análise, arquitetura e engenharia de dados
+- 💬 Me pergunte sobre tecnologia, carreira e etc.
 - 📫 Fale comigo em raulsperandio@gmail.com
 - 📄 Saiba mais sobre mim em meu [Linkedin](https://www.linkedin.com/in/raul-sperandio/)
 
